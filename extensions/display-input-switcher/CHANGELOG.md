@@ -1,5 +1,8 @@
 # Display Input Switcher Changelog
 
+## [Add HDMI 3] - 2026-04-12
+- Added HDMI 3 as a dropdown option
+
 ## [Initial Version] - 2026-04-10
 
 - Switch Input Source command with dropdown selection (HDMI 1/2, DisplayPort 1/2, USB-C)
